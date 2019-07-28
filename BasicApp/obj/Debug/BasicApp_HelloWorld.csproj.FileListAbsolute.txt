@@ -1,0 +1,2 @@
+c:\users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicApp\obj\Debug\BasicApp.exe
+c:\users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicApp\obj\Debug\BasicApp.pdb

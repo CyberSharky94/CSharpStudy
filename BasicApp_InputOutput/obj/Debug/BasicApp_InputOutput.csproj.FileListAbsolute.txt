@@ -1,0 +1,4 @@
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicApp_InputOutput\bin\Debug\BasicApp_InputOutput.exe
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicApp_InputOutput\bin\Debug\BasicApp_InputOutput.pdb
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicApp_InputOutput\obj\Debug\BasicApp_InputOutput.exe
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicApp_InputOutput\obj\Debug\BasicApp_InputOutput.pdb

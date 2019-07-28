@@ -1,0 +1,4 @@
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicAll_WhileLoop\bin\Debug\BasicAll_WhileLoop.exe
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicAll_WhileLoop\bin\Debug\BasicAll_WhileLoop.pdb
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicAll_WhileLoop\obj\Debug\BasicAll_WhileLoop.exe
+c:\Users\cybersharky\documents\visual studio 2012\Projects\BasicApp\BasicAll_WhileLoop\obj\Debug\BasicAll_WhileLoop.pdb
